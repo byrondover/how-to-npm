@@ -1,0 +1,23 @@
+{
+  "name": "@byrondover/how-to-npm",
+  "version": "1.0.1",
+  "description": "NodeSchool.io tutorial.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byrondover/how-to-npm.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/byrondover/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/byrondover/how-to-npm#readme",
+  "devDependencies": {}
+}
