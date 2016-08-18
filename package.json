@@ -12,9 +12,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "bugs": {
     "url": "https://github.com/byrondover/how-to-npm/issues"
   },
